@@ -1,0 +1,83 @@
+.web{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-variant: small-caps;
+    font-size: x-large;
+    padding-top: 20px;
+}
+
+.smk{
+    font-family: 'Courier New', Courier, monospace;
+    font-variant: small-caps;
+    font-weight: bolder;
+    color: blue;
+    font-size: x-large;
+}
+
+.jp1{
+ font-family: 'Courier New', Courier, monospace;
+ color: blue;
+ font-weight: bold;
+ font-size: large;
+}
+
+.lorem{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    word-spacing: 2px;
+    line-height: 30px;
+}
+
+.li1{
+    color: #9BD5E8;
+    background-color: #184878;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 45px;
+    font-weight: 900;
+}
+
+.mrng1{
+    font-weight: 100;
+    font-style:italic ;
+}
+
+.li2{
+    color:  
+    #ABE2F8;    
+    background-color: #3B8BC8;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 45px;
+    font-weight: 900;
+}
+
+.mrng2{
+    font-weight: 100;
+    font-style:italic ;
+}
+
+
+.l3{
+    color:#23437E;    
+    background-color: #D2E3FC;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 45px;
+    font-weight: 900;
+}
+
+.mrng3{
+    font-weight: 100;
+    font-style:italic ;
+}
+
+.copy{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.sal{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    font-weight: 900;
+}
+
